@@ -6,11 +6,12 @@ font-family: "calibri";
 font-size: 20px;
 margin: 0;
 padding: 0;
+background-color: palegreen;
 }
 
 #cabecera{
-background: #33A;
-color: cornsilk;
+background: rgb(234, 0, 255);
+color: rgb(240, 192, 0);
 margin 0;
 padding 0.5em;
 font-weight: bold;
